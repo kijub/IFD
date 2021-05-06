@@ -16,3 +16,4 @@
 
 ## GUI:  
 <a href="https://xd.adobe.com/view/e6160763-75cb-4bd3-8ff9-3188d30e168b-b345/?fullscreen&hints=off">GUI Umsetzung </a>
+<a href="https://github.com/kijub/IFD/blob/9753dd138eb916a997e7d5c0a88d162f8f3e3162/GUI_%20Konzept%20und%20Moddboard.pdf">GUI Pitch-Präsentation </a>
