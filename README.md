@@ -15,5 +15,5 @@
 <a href="https://github.com/kijub/IFD/blob/1e41dd6112154bdaa30a9a70f75268952242001c/Low%20Fidelity%20Prototype_Kim%20Julia%20Bloch_IFD.pdf">Low-Fidelity-Prototype </a>
 
 ## GUI:  
-<a href="https://xd.adobe.com/view/e6160763-75cb-4bd3-8ff9-3188d30e168b-b345/?fullscreen&hints=off">GUI Umsetzung </a>
+<a href="https://xd.adobe.com/view/e6160763-75cb-4bd3-8ff9-3188d30e168b-b345/?fullscreen&hints=off">GUI Umsetzung </a> <br>
 <a href="https://github.com/kijub/IFD/blob/9753dd138eb916a997e7d5c0a88d162f8f3e3162/GUI_%20Konzept%20und%20Moddboard.pdf">GUI Pitch-Präsentation </a>
