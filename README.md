@@ -20,3 +20,7 @@
 
 ## Task 7:  
 <a href="https://github.com/kijub/IFD/blob/7234bc397d1a6e5ec94bd23eeb1e43b271a16562/Dokumentation%20User%20Testing%20GUI%20.pdf">Dokumentation User Testing</a>
+
+## Task 8:  
+<a href="https://github.com/kijub/IFD/blob/6f4851612f4e17ff3870a0c1ee6bca6524cdb0fa/GUI_Dokumentation_Kim%20Julia%20Bloch%20.pdf">Dokumentation GUI</a>
+
