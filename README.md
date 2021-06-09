@@ -24,3 +24,9 @@
 ## Task 8:  
 <a href="https://github.com/kijub/IFD/blob/6f4851612f4e17ff3870a0c1ee6bca6524cdb0fa/GUI_Dokumentation_Kim%20Julia%20Bloch%20.pdf">Dokumentation GUI</a>
 
+## Task 9:  
+<p>keine Aufgabe zu erledigen</p>
+
+## Task 10:  
+<a href="https://github.com/kijub/IFD/blob/1005acf2f110538dc74bfcd2ec86361ec8eb360d/Konzept%20zum%20VUI.pdf">Konzept VUI</a><br>
+<a href="https://github.com/kijub/IFD/blob/1005acf2f110538dc74bfcd2ec86361ec8eb360d/Konzept%20zum%20VUI.pdf">Konzept VUI</a>
