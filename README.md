@@ -34,5 +34,4 @@
 ## Task 11:  
 <a href="https://xd.adobe.com/view/71df15e8-fbbf-43a0-9241-c5fc3ae90464-248c/?fullscreen&hints=off">Prototyp VUI</a><br>
 <a href="https://github.com/kijub/IFD/blob/71b222edb3edc8cb080e8672448689f43dfd7aca/Screencast_VUI_Kim%20Julia%20Bloch.mp4">Screencast VUI</a>
-<video controls autoplay name="media">
-  <source src="https://github.com/kijub/IFD/blob/71b222edb3edc8cb080e8672448689f43dfd7aca/Screencast_VUI_Kim%20Julia%20Bloch.mp4" type="video/mp4">Screencast VUI </video>
+
