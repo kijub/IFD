@@ -40,7 +40,9 @@
   <body>
  <section>
             <h2>Screencast VUI</h2>
-            <iframe width="560" height="315" src="https://github.com/kijub/IFD/blob/71b222edb3edc8cb080e8672448689f43dfd7aca/Screencast_VUI_Kim%20Julia%20Bloch.mp4" title="Media" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <video controls autoplay name="media">
+              <source src="https://github.com/kijub/IFD/blob/71b222edb3edc8cb080e8672448689f43dfd7aca/Screencast_VUI_Kim%20Julia%20Bloch.mp4" type="video/mp4"
+                      </video>
         </section>
 </div>
 </body>
