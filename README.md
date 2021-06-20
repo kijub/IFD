@@ -39,7 +39,6 @@
 <html>
   <body>
  <section>
-            <h2>Screencast VUI</h2>
             <video controls autoplay name="media">
               <source src="https://github.com/kijub/IFD/blob/71b222edb3edc8cb080e8672448689f43dfd7aca/Screencast_VUI_Kim%20Julia%20Bloch.mp4" type="video/mp4"
                       </video>
